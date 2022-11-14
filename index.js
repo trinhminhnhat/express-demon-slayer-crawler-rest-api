@@ -56,7 +56,7 @@ app.get('/characters', (req, res) => {
                     data.push({
                         name,
                         image,
-                        detail_url: process.env.HOST_URL + '/character' + url.split('/wiki')[1],
+                        detail_url: process.env.HOST_URL + '/characters' + url.split('/wiki')[1],
                     });
                 });
 
