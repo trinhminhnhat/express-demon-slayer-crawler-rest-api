@@ -1,6 +1,6 @@
 # Crawler Rest API - Demon Slayer
 
-Using `cheerio` library to crawl the website `https://kimetsu-no-yaiba.fandom.com/wiki/Kimetsu_no_Yaiba_Wik`
+Using `cheerio` library to crawl the website `https://kimetsu-no-yaiba.fandom.com/wiki/Kimetsu_no_Yaiba_Wiki`
 
 ## Website
 
